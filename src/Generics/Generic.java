@@ -84,8 +84,5 @@ public class Generic {
         Integer num = myCustomList2.get(0);
         System.out.println(myCustomList2);
         System.out.println(num);
-
-
-
     }
 }
